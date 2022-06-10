@@ -36,4 +36,7 @@ public class StudentServlet extends HttpServlet {
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		doGet(req, resp);
 	}
+	private void name()
+	{}
+
 }
