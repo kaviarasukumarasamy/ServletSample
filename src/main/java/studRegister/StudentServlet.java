@@ -39,4 +39,8 @@ public class StudentServlet extends HttpServlet {
 	private void name()
 	{}
 
+
+	private void printMe() {
+	    System.out.println("My Name Here");
+	}
 }
