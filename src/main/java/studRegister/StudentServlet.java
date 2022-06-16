@@ -38,6 +38,9 @@ public class StudentServlet extends HttpServlet {
 	}
 	private void name()
 	{}
+	
+	private void mon()
+	{}
 
 
 	private void printMe() {
